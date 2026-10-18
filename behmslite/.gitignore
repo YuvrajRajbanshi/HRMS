@@ -7,6 +7,7 @@ build/
 
 # TypeScript cache
 *.tsbuildinfo
+*.tsbuildinfoi
 
 # Environment variables
 .env
